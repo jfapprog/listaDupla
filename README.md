@@ -1,2 +1,2 @@
 # listaDupla
-Lista duplamente ligada
+Implementação de uma Lista duplamente ligada
